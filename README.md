@@ -1,0 +1,2 @@
+# springboot_hbase_learn
+这是一个在springboot框架下关于hbase学习的项目
