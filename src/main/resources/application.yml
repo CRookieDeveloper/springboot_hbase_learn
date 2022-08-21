@@ -1,0 +1,11 @@
+hbase:
+  master: 36.137.120.190:60010
+  zookeeper:
+    quorum: 36.137.120.190
+    property:
+      clientPort: 2181
+  defaults:
+    for:
+      version:
+        skip: true
+
